@@ -6,4 +6,6 @@ Mi nombre es Benjamín Germann, vivo en Baradero y soy estudiante de Ingeniería
 ## Pasatiempos
 * Jugar al tenis
 * Pescar
+![pesca](pesca.jpg)
 * Ver a Newell's
+![newells](newells.jpg)
